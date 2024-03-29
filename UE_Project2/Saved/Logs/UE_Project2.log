@@ -3790,3 +3790,244 @@ Script Stack (0 frames) :
 [2024.03.29-00.24.00:008][118]LogViewport: Scene viewport resized to 1135x474, mode Windowed.
 [2024.03.29-00.24.00:054][120]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
 [2024.03.29-00.24.00:349][138]LogSlate: Window 'Sheath_A_Great_Sword_1' being destroyed
+[2024.03.29-00.26.23:016][198]LogSlate: Window '스켈레톤 선택' being destroyed
+[2024.03.29-00.26.23:023][198]LogContentBrowser: Deferred new asset file creation: NewAnimMontage
+[2024.03.29-00.26.23:029][198]LogContentBrowser: Creating deferred item: NewAnimMontage
+[2024.03.29-00.26.23:044][199]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimMontage).
+[2024.03.29-00.26.26:408][401]LogContentBrowser: Attempting asset rename: NewAnimMontage -> NewAnimMontage
+[2024.03.29-00.26.26:424][401]LogContentBrowser: End creating deferred item NewAnimMontage
+[2024.03.29-00.27.11:014][940]LogContentBrowser: Attempting asset rename: NewAnimMontage -> MonTaDrawSword
+[2024.03.29-00.27.11:054][940]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.29-00.27.11:112][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Naruto/Animations/Melee/MonTaDrawSword" FILE="E:/SGA_UE/UE_Project2/Content/Naruto/Animations/Melee/MonTaDrawSword.uasset" SILENT=true
+[2024.03.29-00.27.11:147][940]LogSavePackage: Moving output files for package: /Game/Naruto/Animations/Melee/MonTaDrawSword
+[2024.03.29-00.27.11:147][940]LogSavePackage: Moving 'E:/SGA_UE/UE_Project2/Saved/MonTaDrawSword267DD27949E0E563CD1899A9858FF3FF.tmp' to 'E:/SGA_UE/UE_Project2/Content/Naruto/Animations/Melee/MonTaDrawSword.uasset'
+[2024.03.29-00.27.11:169][940]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 4:08 min)
+[2024.03.29-00.27.11:269][940]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2024.03.29-00.27.11:323][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.03.29-00.27.11:358][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.03.29-00.27.11:365][940]AssetCheck: New page: 에셋 저장:  MonTaDrawSword
+[2024.03.29-00.27.11:365][940]LogContentValidation: Display: /Script/Engine.AnimMontage /Game/Naruto/Animations/Melee/MonTaDrawSword.MonTaDrawSword 유효성 검사 중
+[2024.03.29-00.27.17:374][130]LogSlate: Window '스켈레톤 선택' being destroyed
+[2024.03.29-00.27.17:397][130]LogContentBrowser: Deferred new asset file creation: NewAnimMontage
+[2024.03.29-00.27.17:402][130]LogContentBrowser: Creating deferred item: NewAnimMontage
+[2024.03.29-00.27.17:411][131]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimMontage).
+[2024.03.29-00.27.18:723][210]LogContentBrowser: Attempting asset rename: NewAnimMontage -> NewAnimMontage
+[2024.03.29-00.27.18:724][210]LogContentBrowser: End creating deferred item NewAnimMontage
+[2024.03.29-00.27.19:947][283]LogContentBrowser: Attempting asset rename: NewAnimMontage -> NewAnimMontage
+[2024.03.29-00.27.22:796][454]LogContentBrowser: Attempting asset rename: NewAnimMontage -> NewAnimMontage
+[2024.03.29-00.27.23:712][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.03.29-00.27.25:083][507]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.29-00.27.25:134][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.03.29-00.27.25:168][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.03.29-00.27.25:203][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.03.29-00.27.46:931][807]LogContentBrowser: Attempting asset rename: MonTaDrawSword -> MonTaDrawSword
+[2024.03.29-00.27.51:193][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.03.29-00.27.52:170][ 55]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.29-00.27.52:221][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.03.29-00.27.52:255][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.03.29-00.27.52:288][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.03.29-00.27.56:504][206]LogSlate: Window '스켈레톤 선택' being destroyed
+[2024.03.29-00.27.56:527][206]LogContentBrowser: Deferred new asset file creation: NewAnimMontage
+[2024.03.29-00.27.56:532][206]LogContentBrowser: Creating deferred item: NewAnimMontage
+[2024.03.29-00.27.56:541][207]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimMontage).
+[2024.03.29-00.27.56:603][211]LogContentBrowser: Attempting asset rename: NewAnimMontage -> NewAnimMontage
+[2024.03.29-00.27.56:610][211]LogContentBrowser: End creating deferred item NewAnimMontage
+[2024.03.29-00.28.12:276][149]LogContentBrowser: Attempting asset rename: NewAnimMontage -> _Montage_DrawSword
+[2024.03.29-00.28.12:293][149]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.29-00.28.12:341][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Naruto/Animations/Melee/_Montage_DrawSword" FILE="E:/SGA_UE/UE_Project2/Content/Naruto/Animations/Melee/_Montage_DrawSword.uasset" SILENT=true
+[2024.03.29-00.28.12:373][149]LogSavePackage: Moving output files for package: /Game/Naruto/Animations/Melee/_Montage_DrawSword
+[2024.03.29-00.28.12:373][149]LogSavePackage: Moving 'E:/SGA_UE/UE_Project2/Saved/_Montage_DrawSword0F02E45A4B5D7FE9556CA4B9F2422BF1.tmp' to 'E:/SGA_UE/UE_Project2/Content/Naruto/Animations/Melee/_Montage_DrawSword.uasset'
+[2024.03.29-00.28.12:408][149]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 4:08 min)
+[2024.03.29-00.28.12:456][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.03.29-00.28.12:490][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.03.29-00.28.12:523][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.03.29-00.28.12:530][149]AssetCheck: New page: 에셋 저장:  _Montage_DrawSword
+[2024.03.29-00.28.12:530][149]LogContentValidation: Display: /Script/Engine.AnimMontage /Game/Naruto/Animations/Melee/_Montage_DrawSword._Montage_DrawSword 유효성 검사 중
+[2024.03.29-00.28.14:408][255]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Naruto/Animations/Melee/_Montage_DrawSword._Montage_DrawSword
+[2024.03.29-00.28.14:850][255]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-00.28.14:850][255]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-00.31.16:607][808]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-00.31.17:696][873]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-00.31.17:696][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-00.31.40:860][259]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-00.31.41:708][308]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-00.31.41:708][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-00.35.30:407][ 20]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-00.35.43:463][797]LogViewport: Scene viewport resized to 315x240, mode Windowed.
+[2024.03.29-00.36.07:576][241]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-00.36.07:598][241]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-00.36.07:598][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-00.36.07:607][241]LogViewport: Scene viewport resized to 315x240, mode Windowed.
+[2024.03.29-00.39.14:055][420]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.03.29-00.39.14:056][420]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.03.29-00.39.14:056][420]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.03.29-00.41.11:973][909]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-00.41.11:973][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-00.46.41:293][683]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.29-00.46.41:355][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Naruto/Animations/Melee/_Montage_DrawSword" FILE="E:/SGA_UE/UE_Project2/Content/Naruto/Animations/Melee/_Montage_DrawSword.uasset" SILENT=true
+[2024.03.29-00.46.43:878][683]LogSavePackage: Moving output files for package: /Game/Naruto/Animations/Melee/_Montage_DrawSword
+[2024.03.29-00.46.44:098][683]LogSavePackage: Moving 'E:/SGA_UE/UE_Project2/Saved/_Montage_DrawSword1D8A28C7455462D09192A0ABFC65C6E4.tmp' to 'E:/SGA_UE/UE_Project2/Content/Naruto/Animations/Melee/_Montage_DrawSword.uasset'
+[2024.03.29-00.46.45:032][683]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.73 sec (total: 4:12 min)
+[2024.03.29-00.46.45:055][683]AssetCheck: New page: 에셋 저장:  _Montage_DrawSword
+[2024.03.29-00.46.45:055][683]LogContentValidation: Display: /Script/Engine.AnimMontage /Game/Naruto/Animations/Melee/_Montage_DrawSword._Montage_DrawSword 유효성 검사 중
+[2024.03.29-00.46.47:811][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.03.29-00.46.49:305][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.03.29-00.46.49:444][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.03.29-01.01.11:040][715]LogDerivedDataCache: C:/Users/rladb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:22.105 and deleted 0 files with total size 0 MiB. Scanned 11880 files in 11245 folders with total size 213 MiB.
+[2024.03.29-01.14.30:720][705]LogSlate: Window '부모 클래스 선택' being destroyed
+[2024.03.29-01.14.30:726][705]LogContentBrowser: Deferred new asset file creation: NewBlueprint1
+[2024.03.29-01.14.30:731][705]LogContentBrowser: Creating deferred item: NewBlueprint1
+[2024.03.29-01.14.30:752][706]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint1).
+[2024.03.29-01.14.46:322][636]LogContentBrowser: Attempting asset rename: NewBlueprint1 -> NarutoCharacter
+[2024.03.29-01.14.46:328][636]LogContentBrowser: End creating deferred item NewBlueprint1
+[2024.03.29-01.15.05:805][805]LogContentBrowser: Attempting asset rename: NarutoCharacter -> NarutoCh
+[2024.03.29-01.15.05:828][805]LogMetaData: Removing '/Game/BluePrint/NarutoCh.NarutoCh:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BluePrint/NarutoCharacter.PackageMetaData'
+[2024.03.29-01.15.05:828][805]LogMetaData: Removing '/Game/BluePrint/NarutoCh.SKEL_NarutoCh_C:UserConstructionScript' ref from Metadata '/Game/BluePrint/NarutoCharacter.PackageMetaData'
+[2024.03.29-01.15.05:828][805]LogMetaData: Removing '/Game/BluePrint/NarutoCh.SKEL_NarutoCh_C' ref from Metadata '/Game/BluePrint/NarutoCharacter.PackageMetaData'
+[2024.03.29-01.15.05:828][805]LogMetaData: Removing '/Game/BluePrint/NarutoCh.NarutoCh_C' ref from Metadata '/Game/BluePrint/NarutoCharacter.PackageMetaData'
+[2024.03.29-01.15.05:828][805]LogMetaData: Removing '/Game/BluePrint/NarutoCh.NarutoCh:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BluePrint/NarutoCharacter.PackageMetaData'
+[2024.03.29-01.15.05:828][805]LogMetaData: Removing '/Game/BluePrint/NarutoCh.NarutoCh:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BluePrint/NarutoCharacter.PackageMetaData'
+[2024.03.29-01.15.05:828][805]LogMetaData: Removing '/Game/BluePrint/NarutoCh.NarutoCh:EventGraph.K2Node_Event_2' ref from Metadata '/Game/BluePrint/NarutoCharacter.PackageMetaData'
+[2024.03.29-01.15.05:828][805]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.29-01.15.05:872][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/NarutoCh" FILE="E:/SGA_UE/UE_Project2/Content/BluePrint/NarutoCh.uasset" SILENT=true
+[2024.03.29-01.15.06:675][805]LogSavePackage: Moving output files for package: /Game/BluePrint/NarutoCh
+[2024.03.29-01.15.06:675][805]LogSavePackage: Moving 'E:/SGA_UE/UE_Project2/Saved/NarutoCh95239058436FC8BD5B10168E49BC7AEA.tmp' to 'E:/SGA_UE/UE_Project2/Content/BluePrint/NarutoCh.uasset'
+[2024.03.29-01.15.06:706][805]LogFileHelpers: InternalPromptForCheckoutAndSave took 877 ms (total: 4:13 min)
+[2024.03.29-01.15.06:766][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.03.29-01.15.06:801][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.03.29-01.15.06:833][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.03.29-01.15.06:840][805]AssetCheck: New page: 에셋 저장:  NarutoCh
+[2024.03.29-01.15.06:840][805]LogContentValidation: Display: /Script/Engine.Blueprint /Game/BluePrint/NarutoCh.NarutoCh 유효성 검사 중
+[2024.03.29-01.15.07:445][835]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/NarutoCh.NarutoCh
+[2024.03.29-01.15.07:445][835]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-01.15.08:092][835]LogViewport: Scene viewport resized to 1141x693, mode Windowed.
+[2024.03.29-01.15.29:379][ 98]LogShaderCompilers: Display: ================================================
+[2024.03.29-01.15.29:379][ 98]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.29-01.15.29:379][ 98]LogShaderCompilers: Display: Total job queries 446, among them cache hits 14 (3.14%)
+[2024.03.29-01.15.29:379][ 98]LogShaderCompilers: Display: Tracking 336 distinct input hashes that result in 131 distinct outputs (38.99%)
+[2024.03.29-01.15.29:379][ 98]LogShaderCompilers: Display: RAM used: 2.64 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.16%
+[2024.03.29-01.15.29:379][ 98]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.29-01.15.29:379][ 98]LogShaderCompilers: Display: Shaders Compiled: 192
+[2024.03.29-01.15.29:379][ 98]LogShaderCompilers: Display: Jobs assigned 192, completed 192 (100.00%)
+[2024.03.29-01.15.29:379][ 98]LogShaderCompilers: Display: Average time worker was idle: 30.72 s
+[2024.03.29-01.15.29:379][ 98]LogShaderCompilers: Display: Time job spent in pending queue: average 1.47 s, longest 8.68 s
+[2024.03.29-01.15.29:379][ 98]LogShaderCompilers: Display: Job execution time: average 2.12 s, max 7.35 s
+[2024.03.29-01.15.29:379][ 98]LogShaderCompilers: Display: Job life time (pending + execution): average 3.59 s, max 9.60
+[2024.03.29-01.15.29:379][ 98]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 24.75 s
+[2024.03.29-01.15.29:379][ 98]LogShaderCompilers: Display: Jobs were issued in 150 batches (only local compilation was used), average 1.28 jobs/batch
+[2024.03.29-01.15.29:379][ 98]LogShaderCompilers: Display: Average processing rate: 7.76 jobs/sec
+[2024.03.29-01.15.29:379][ 98]LogShaderCompilers: Display: Total thread time: 154.91 s
+[2024.03.29-01.15.29:379][ 98]LogShaderCompilers: Display: Total thread preprocess time: 9.92 s
+[2024.03.29-01.15.29:379][ 98]LogShaderCompilers: Display: Percentage time preprocessing: 6.40%
+[2024.03.29-01.15.29:379][ 98]LogShaderCompilers: Display: Effective parallelization: 6.26 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.03.29-01.15.29:379][ 98]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.29-01.15.29:379][ 98]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   12 times, average 1.07 sec, max 2.26 sec, min 0.65 sec)
+[2024.03.29-01.15.29:379][ 98]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   12 times, average 1.03 sec, max 2.62 sec, min 0.73 sec)
+[2024.03.29-01.15.29:379][ 98]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   12 times, average 1.03 sec, max 2.50 sec, min 0.73 sec)
+[2024.03.29-01.15.29:379][ 98]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   12 times, average 0.99 sec, max 2.61 sec, min 0.74 sec)
+[2024.03.29-01.15.29:379][ 98]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   12 times, average 0.95 sec, max 1.93 sec, min 0.72 sec)
+[2024.03.29-01.15.29:379][ 98]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.29-01.15.29:379][ 98]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.27% of total time (compiled   12 times, average 1.07 sec, max 2.26 sec, min 0.65 sec)
+[2024.03.29-01.15.29:379][ 98]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 8.01% of total time (compiled   12 times, average 1.03 sec, max 2.62 sec, min 0.73 sec)
+[2024.03.29-01.15.29:379][ 98]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 7.98% of total time (compiled   12 times, average 1.03 sec, max 2.50 sec, min 0.73 sec)
+[2024.03.29-01.15.29:379][ 98]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 7.70% of total time (compiled   12 times, average 0.99 sec, max 2.61 sec, min 0.74 sec)
+[2024.03.29-01.15.29:379][ 98]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.35% of total time (compiled   12 times, average 0.95 sec, max 1.93 sec, min 0.72 sec)
+[2024.03.29-01.15.29:379][ 98]LogShaderCompilers: Display: ================================================
+[2024.03.29-01.15.49:034][271]BlueprintLog: New page: NarutoCh 컴파일
+[2024.03.29-01.15.49:108][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.03.29-01.16.35:886][904]LogSlate: Window '스켈레톤 선택' being destroyed
+[2024.03.29-01.16.35:908][904]LogContentBrowser: Deferred new asset file creation: NewAnimMontage
+[2024.03.29-01.16.35:914][904]LogContentBrowser: Creating deferred item: NewAnimMontage
+[2024.03.29-01.16.35:922][905]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimMontage).
+[2024.03.29-01.16.54:768][ 36]LogContentBrowser: Attempting asset rename: NewAnimMontage -> _Montage_Jump
+[2024.03.29-01.16.54:777][ 36]LogContentBrowser: End creating deferred item NewAnimMontage
+[2024.03.29-01.16.55:423][ 75]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Naruto/Animations/Unarmed/_Montage_Jump._Montage_Jump
+[2024.03.29-01.17.38:378][608]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-01.17.38:400][608]LogViewport: Scene viewport resized to 315x240, mode Windowed.
+[2024.03.29-01.17.59:926][892]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-01.17.59:926][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-01.18.10:648][532]LogSlate: Took 0.021493 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.03.29-01.18.10:648][532]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: ' (U+f061)'
+[2024.03.29-01.18.10:659][532]LogSlate: Took 0.010129 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2024.03.29-01.19.16:435][476]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-01.19.16:458][476]LogViewport: Scene viewport resized to 315x240, mode Windowed.
+[2024.03.29-01.19.35:893][642]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-01.19.35:893][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-01.19.43:831][117]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-01.19.43:854][117]LogViewport: Scene viewport resized to 315x240, mode Windowed.
+[2024.03.29-01.19.53:640][703]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-01.19.53:663][703]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-01.19.53:664][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-01.19.53:670][703]LogViewport: Scene viewport resized to 315x240, mode Windowed.
+[2024.03.29-01.20.55:586][415]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.29-01.20.55:633][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Naruto/Animations/Unarmed/_Montage_Jump" FILE="E:/SGA_UE/UE_Project2/Content/Naruto/Animations/Unarmed/_Montage_Jump.uasset" SILENT=true
+[2024.03.29-01.20.55:666][415]LogSavePackage: Moving output files for package: /Game/Naruto/Animations/Unarmed/_Montage_Jump
+[2024.03.29-01.20.55:666][415]LogSavePackage: Moving 'E:/SGA_UE/UE_Project2/Saved/_Montage_Jump10C262BB443338B3F3F2809C14F02092.tmp' to 'E:/SGA_UE/UE_Project2/Content/Naruto/Animations/Unarmed/_Montage_Jump.uasset'
+[2024.03.29-01.20.55:688][415]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 4:13 min)
+[2024.03.29-01.20.55:698][415]AssetCheck: New page: 에셋 저장:  _Montage_Jump
+[2024.03.29-01.20.55:698][415]LogContentValidation: Display: /Script/Engine.AnimMontage /Game/Naruto/Animations/Unarmed/_Montage_Jump._Montage_Jump 유효성 검사 중
+[2024.03.29-01.21.21:484][930]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Naruto/Animations/Unarmed/Idle.Idle
+[2024.03.29-01.21.21:899][930]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-01.22.17:063][218]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-01.22.17:101][218]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-01.22.17:101][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-01.23.12:465][530]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-01.23.12:504][530]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-01.23.12:504][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-01.23.20:872][ 21]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-01.23.20:910][ 21]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-01.23.20:910][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-01.26.39:054][160]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-01.26.39:054][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-01.26.39:077][160]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-01.26.39:077][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-01.26.39:585][160]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-01.26.39:585][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-01.26.39:599][160]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-01.26.39:599][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-01.26.53:854][872]LogSlate: Window '스켈레톤 선택' being destroyed
+[2024.03.29-01.26.53:861][872]LogContentBrowser: Deferred new asset file creation: NewBlendSpace
+[2024.03.29-01.26.53:866][872]LogContentBrowser: Creating deferred item: NewBlendSpace
+[2024.03.29-01.26.53:878][873]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlendSpace).
+[2024.03.29-01.27.12:240][975]LogContentBrowser: Attempting asset rename: NewBlendSpace -> NewBlendSpace
+[2024.03.29-01.27.12:247][975]LogContentBrowser: End creating deferred item NewBlendSpace
+[2024.03.29-01.27.13:664][ 60]LogWindows: LaunchURL https://docs.unrealengine.com/5.1/ko/BuildingWorlds/LevelEditor?utm_source=editor&utm_medium=docs&utm_campaign=help_menu
+[2024.03.29-01.27.40:391][484]LogContentBrowser: Attempting asset rename: NewBlendSpace -> _Blend_RunDirectional
+[2024.03.29-01.27.40:410][484]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.29-01.27.40:471][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Naruto/Animations/Unarmed/_Blend_RunDirectional" FILE="E:/SGA_UE/UE_Project2/Content/Naruto/Animations/Unarmed/_Blend_RunDirectional.uasset" SILENT=true
+[2024.03.29-01.27.40:511][484]LogSavePackage: Moving output files for package: /Game/Naruto/Animations/Unarmed/_Blend_RunDirectional
+[2024.03.29-01.27.40:511][484]LogSavePackage: Moving 'E:/SGA_UE/UE_Project2/Saved/_Blend_RunDirectional27E22D034AC3A1625B91C3A33DB1EA3E.tmp' to 'E:/SGA_UE/UE_Project2/Content/Naruto/Animations/Unarmed/_Blend_RunDirectional.uasset'
+[2024.03.29-01.27.40:542][484]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 4:13 min)
+[2024.03.29-01.27.40:642][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.03.29-01.27.40:693][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.03.29-01.27.40:734][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.03.29-01.27.40:741][484]AssetCheck: New page: 에셋 저장:  _Blend_RunDirectional
+[2024.03.29-01.27.40:741][484]LogContentValidation: Display: /Script/Engine.BlendSpace /Game/Naruto/Animations/Unarmed/_Blend_RunDirectional._Blend_RunDirectional 유효성 검사 중
+[2024.03.29-01.27.46:486][821]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Naruto/Animations/Unarmed/_Blend_RunDirectional._Blend_RunDirectional
+[2024.03.29-01.27.46:486][821]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-01.27.46:494][821]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.29-01.27.46:771][821]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-01.27.47:263][821]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2024.03.29-01.27.47:271][821]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.03.29-01.29.40:049][584]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2024.03.29-01.36.38:312][729]Cmd: TRANSACTION UNDO
+[2024.03.29-01.36.38:312][729]LogEditorTransaction: Undo 블렌드 스페이스 샘플 이동
+[2024.03.29-01.36.38:435][729]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.29-01.36.38:436][729]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.29-01.36.38:737][732]Cmd: TRANSACTION UNDO
+[2024.03.29-01.36.38:737][732]LogEditorTransaction: Undo 블렌드 스페이스 샘플 이동
+[2024.03.29-01.36.38:852][732]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.29-01.36.38:852][732]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.29-01.47.15:933][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.03.29-01.47.18:876][166]LogSlate: Window '콘텐츠 저장' being destroyed
+[2024.03.29-01.47.18:886][166]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.29-01.47.18:955][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Naruto/Animations/Unarmed/_Blend_RunDirectional" FILE="E:/SGA_UE/UE_Project2/Content/Naruto/Animations/Unarmed/_Blend_RunDirectional.uasset" SILENT=true
+[2024.03.29-01.47.18:990][166]LogSavePackage: Moving output files for package: /Game/Naruto/Animations/Unarmed/_Blend_RunDirectional
+[2024.03.29-01.47.19:004][166]LogSavePackage: Moving 'E:/SGA_UE/UE_Project2/Saved/_Blend_RunDirectional7B6C5AB14EC32F9F600541BEED7EC8F8.tmp' to 'E:/SGA_UE/UE_Project2/Content/Naruto/Animations/Unarmed/_Blend_RunDirectional.uasset'
+[2024.03.29-01.47.19:095][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/NarutoCh" FILE="E:/SGA_UE/UE_Project2/Content/BluePrint/NarutoCh.uasset" SILENT=true
+[2024.03.29-01.47.19:938][166]LogSavePackage: Moving output files for package: /Game/BluePrint/NarutoCh
+[2024.03.29-01.47.19:956][166]LogSavePackage: Moving 'E:/SGA_UE/UE_Project2/Saved/NarutoCh373C671946E1FFD56B6C949F3A19E79B.tmp' to 'E:/SGA_UE/UE_Project2/Content/BluePrint/NarutoCh.uasset'
+[2024.03.29-01.47.20:014][166]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.12 sec (total: 4:14 min)
+[2024.03.29-01.47.20:033][166]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2024.03.29-01.47.20:033][166]LogContentValidation: Display: /Script/Engine.Blueprint /Game/BluePrint/NarutoCh.NarutoCh 유효성 검사 중
+[2024.03.29-01.47.20:033][166]LogContentValidation: Display: /Script/Engine.BlendSpace /Game/Naruto/Animations/Unarmed/_Blend_RunDirectional._Blend_RunDirectional 유효성 검사 중
