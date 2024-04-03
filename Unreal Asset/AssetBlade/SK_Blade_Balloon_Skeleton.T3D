@@ -1,0 +1,4 @@
+Begin Object Class=/Script/Engine.Skeleton Name="SK_Blade_Balloon_Skeleton"
+   BoneTree(0)=()
+   PreviewSkeletalMesh="/Game/InfinityBladeWeapons/Weapons/Blade/Silly_Weapons/Blade_Balloon/SK_Blade_Balloon.SK_Blade_Balloon"
+End Object

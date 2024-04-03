@@ -1,0 +1,25 @@
+Begin Object Class=/Script/Engine.AnimMontage Name="AMSlashBlade"
+   Begin Object Class=/Script/UEProject.ANCEndAttack Name="ANCEndAttack_0"
+   End Object
+   Begin Object Class=/Script/Engine.AnimDataModel Name="AnimationDataModel"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfo Name="SceneThumbnailInfo_0"
+   End Object
+   Begin Object Name="ANCEndAttack_0"
+   End Object
+   Begin Object Name="AnimationDataModel"
+      PlayLength=1.066667
+      NumberOfFrames=64000
+      NumberOfKeys=64001
+   End Object
+   Begin Object Name="SceneThumbnailInfo_0"
+   End Object
+   CompositeSections(0)=(SectionName="Default",LinkedMontage=/Script/Engine.AnimMontage'"AMSlashBlade"',SegmentIndex=0,SegmentLength=1.066667,LinkedSequence=/Script/Engine.AnimSequence'"/Game/Monster/Animations/Sword_And_Shield_Slash.Sword_And_Shield_Slash"')
+   SlotAnimTracks(0)=(SlotName="FullBody",AnimTrack=(AnimSegments=((AnimReference=/Script/Engine.AnimSequence'"/Game/Monster/Animations/Sword_And_Shield_Slash.Sword_And_Shield_Slash"',AnimEndTime=1.066667))))
+   Notifies(0)=(EndTriggerTimeOffset=0.000100,NotifyName="ANCEndAttack",Notify=/Script/UEProject.ANCEndAttack'"ANCEndAttack_0"',Guid=169F874849032533C01989ABA1DC8C25,LinkedMontage=/Script/Engine.AnimMontage'"AMSlashBlade"',SegmentIndex=0,SegmentLength=1.066667,LinkValue=0.963164,LinkedSequence=/Script/Engine.AnimSequence'"/Game/Monster/Animations/Sword_And_Shield_Slash.Sword_And_Shield_Slash"')
+   SequenceLength=1.066667
+   AnimNotifyTracks(0)=(TrackName="1",TrackColor=(R=0.500000,G=0.500000,B=0.500000,A=1.000000))
+   DataModel=/Script/Engine.AnimDataModel'"AnimationDataModel"'
+   Skeleton=/Script/Engine.Skeleton'"/Game/Monster/Model/Y_Bot_Skeleton.Y_Bot_Skeleton"'
+   ThumbnailInfo=/Script/UnrealEd.SceneThumbnailInfo'"SceneThumbnailInfo_0"'
+End Object

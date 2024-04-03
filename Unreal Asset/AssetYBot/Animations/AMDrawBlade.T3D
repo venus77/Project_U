@@ -1,0 +1,30 @@
+Begin Object Class=/Script/Engine.AnimMontage Name="AMDrawBlade"
+   Begin Object Class=/Script/UEProject.ANCEndDraw Name="ANCEndDraw_0"
+   End Object
+   Begin Object Class=/Script/UEProject.ANCGrabWeapon Name="ANCGrabWeapon_0"
+   End Object
+   Begin Object Class=/Script/Engine.AnimDataModel Name="AnimationDataModel"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfo Name="SceneThumbnailInfo_0"
+   End Object
+   Begin Object Name="ANCEndDraw_0"
+   End Object
+   Begin Object Name="ANCGrabWeapon_0"
+   End Object
+   Begin Object Name="AnimationDataModel"
+      PlayLength=1.266667
+      NumberOfFrames=76000
+      NumberOfKeys=76001
+   End Object
+   Begin Object Name="SceneThumbnailInfo_0"
+   End Object
+   CompositeSections(0)=(SectionName="Default",LinkedMontage=/Script/Engine.AnimMontage'"AMDrawBlade"',SegmentIndex=0,SegmentLength=0.500000,LinkedSequence=/Script/Engine.AnimSequence'"/Game/Monster/Animations/Draw_Sword_1.Draw_Sword_1"')
+   SlotAnimTracks(0)=(SlotName="FullBody",AnimTrack=(AnimSegments=((AnimReference=/Script/Engine.AnimSequence'"/Game/Monster/Animations/Draw_Sword_1.Draw_Sword_1"',AnimEndTime=0.500000),(AnimReference=/Script/Engine.AnimSequence'"/Game/Monster/Animations/Draw_Sword_2.Draw_Sword_2"',StartPos=0.500000,AnimEndTime=0.766667))))
+   Notifies(0)=(EndTriggerTimeOffset=0.000100,NotifyName="ANCGrabWeapon",Notify=/Script/UEProject.ANCGrabWeapon'"ANCGrabWeapon_0"',Guid=08D7C4FC48A9C9DF6B9DB5BDDEE593F0,LinkedMontage=/Script/Engine.AnimMontage'"AMDrawBlade"',SegmentIndex=0,SegmentLength=0.500000,LinkValue=0.476254,LinkedSequence=/Script/Engine.AnimSequence'"/Game/Monster/Animations/Draw_Sword_1.Draw_Sword_1"')
+   Notifies(1)=(EndTriggerTimeOffset=0.000100,NotifyName="ANCEndDraw",Notify=/Script/UEProject.ANCEndDraw'"ANCEndDraw_0"',Guid=C83AEC6643079A4EC3B90A8AC423AECE,LinkedMontage=/Script/Engine.AnimMontage'"AMDrawBlade"',SegmentIndex=1,SegmentBeginTime=0.500000,SegmentLength=0.766667,LinkValue=1.132609,LinkedSequence=/Script/Engine.AnimSequence'"/Game/Monster/Animations/Draw_Sword_2.Draw_Sword_2"')
+   SequenceLength=1.266667
+   AnimNotifyTracks(0)=(TrackName="1",TrackColor=(R=0.500000,G=0.500000,B=0.500000,A=1.000000))
+   DataModel=/Script/Engine.AnimDataModel'"AnimationDataModel"'
+   Skeleton=/Script/Engine.Skeleton'"/Game/Monster/Model/Y_Bot_Skeleton.Y_Bot_Skeleton"'
+   ThumbnailInfo=/Script/UnrealEd.SceneThumbnailInfo'"SceneThumbnailInfo_0"'
+End Object

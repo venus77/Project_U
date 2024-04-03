@@ -1,0 +1,30 @@
+Begin Object Class=/Script/Engine.AnimMontage Name="AMSheathBlade"
+   Begin Object Class=/Script/UEProject.ANCDropSword Name="ANCDropSword_0"
+   End Object
+   Begin Object Class=/Script/UEProject.ANCEndSheath Name="ANCEndSheath_0"
+   End Object
+   Begin Object Class=/Script/Engine.AnimDataModel Name="AnimationDataModel"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfo Name="SceneThumbnailInfo_0"
+   End Object
+   Begin Object Name="ANCDropSword_0"
+   End Object
+   Begin Object Name="ANCEndSheath_0"
+   End Object
+   Begin Object Name="AnimationDataModel"
+      PlayLength=2.100000
+      NumberOfFrames=126000
+      NumberOfKeys=126001
+   End Object
+   Begin Object Name="SceneThumbnailInfo_0"
+   End Object
+   CompositeSections(0)=(SectionName="Default",LinkedMontage=/Script/Engine.AnimMontage'"AMSheathBlade"',SegmentIndex=0,SegmentLength=1.266667,LinkedSequence=/Script/Engine.AnimSequence'"/Game/Monster/Animations/Sheath_Sword_1.Sheath_Sword_1"')
+   SlotAnimTracks(0)=(SlotName="FullBody",AnimTrack=(AnimSegments=((AnimReference=/Script/Engine.AnimSequence'"/Game/Monster/Animations/Sheath_Sword_1.Sheath_Sword_1"',AnimEndTime=1.266667),(AnimReference=/Script/Engine.AnimSequence'"/Game/Monster/Animations/Sheath_Sword_2.Sheath_Sword_2"',StartPos=1.266667,AnimEndTime=0.833333))))
+   Notifies(0)=(EndTriggerTimeOffset=0.000100,NotifyName="ANCDropSword",Notify=/Script/UEProject.ANCDropSword'"ANCDropSword_0"',Guid=163869AA4DF9ED8A6773EABC9D62E3DB,LinkedMontage=/Script/Engine.AnimMontage'"AMSheathBlade"',SegmentIndex=0,SegmentLength=1.266667,LinkValue=1.096853,LinkedSequence=/Script/Engine.AnimSequence'"/Game/Monster/Animations/Sheath_Sword_1.Sheath_Sword_1"')
+   Notifies(1)=(EndTriggerTimeOffset=0.000100,NotifyName="ANCEndSheath",Notify=/Script/UEProject.ANCEndSheath'"ANCEndSheath_0"',Guid=98EBA3864C99212ACE09B5BE968DCC8C,LinkedMontage=/Script/Engine.AnimMontage'"AMSheathBlade"',SegmentIndex=1,SegmentBeginTime=1.266667,SegmentLength=0.833333,LinkValue=1.979400,LinkedSequence=/Script/Engine.AnimSequence'"/Game/Monster/Animations/Sheath_Sword_2.Sheath_Sword_2"')
+   SequenceLength=2.100000
+   AnimNotifyTracks(0)=(TrackName="1",TrackColor=(R=0.500000,G=0.500000,B=0.500000,A=1.000000))
+   DataModel=/Script/Engine.AnimDataModel'"AnimationDataModel"'
+   Skeleton=/Script/Engine.Skeleton'"/Game/Monster/Model/Y_Bot_Skeleton.Y_Bot_Skeleton"'
+   ThumbnailInfo=/Script/UnrealEd.SceneThumbnailInfo'"SceneThumbnailInfo_0"'
+End Object
