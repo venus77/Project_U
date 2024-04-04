@@ -1,0 +1,25 @@
+Begin Object Class=/Script/Engine.Skeleton Name="Naruto_Skeleton"
+   Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_0"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_1"
+   End Object
+   Begin Object Name="SkeletalMeshSocket_0"
+      SocketName="SwordHolster"
+      BoneName="Spine1"
+      RelativeLocation=(X=-15.610861,Y=-39.932505,Z=-8.057429)
+      RelativeRotation=(Pitch=-75.914828,Yaw=-171.195056,Roll=-115.381441)
+   End Object
+   Begin Object Name="SkeletalMeshSocket_1"
+      SocketName="SwordEquip"
+      BoneName="RightHand"
+      RelativeLocation=(X=-0.208000,Y=-5.013285,Z=4.664614)
+      RelativeRotation=(Pitch=-63.752592,Yaw=-84.812274,Roll=84.219678)
+   End Object
+   BoneTree(64)=()
+   Sockets(0)=/Script/Engine.SkeletalMeshSocket'"SkeletalMeshSocket_0"'
+   Sockets(1)=/Script/Engine.SkeletalMeshSocket'"SkeletalMeshSocket_1"'
+   SlotGroups(0)=(SlotNames=("UpperBody","FullBody","DefaultSlot"))
+   PreviewSkeletalMesh="/Game/Naruto/Model/Naruto.Naruto"
+   AnimationNotifies(0)="Landing"
+   PreviewAttachedAssetContainer=(AttachedObjects=((AttachedObject="/Game/InfinityBladeWeapons/Weapons/Blade/Silly_Weapons/Blade_Balloon/SK_Blade_Balloon.SK_Blade_Balloon",AttachedTo="SwordHolster"),(AttachedObject="/Game/InfinityBladeWeapons/Weapons/Blade/Silly_Weapons/Blade_Balloon/SK_Blade_Balloon.SK_Blade_Balloon",AttachedTo="SwordEquip")))
+End Object

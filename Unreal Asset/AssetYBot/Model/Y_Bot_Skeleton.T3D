@@ -1,0 +1,24 @@
+Begin Object Class=/Script/Engine.Skeleton Name="Y_Bot_Skeleton"
+   Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_1"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_0"
+   End Object
+   Begin Object Name="SkeletalMeshSocket_1"
+      SocketName="BladeEquip"
+      BoneName="RightHand"
+      RelativeLocation=(X=7.993355,Y=-6.588464,Z=3.794455)
+      RelativeRotation=(Pitch=57.372597,Yaw=103.582619,Roll=-63.149705)
+   End Object
+   Begin Object Name="SkeletalMeshSocket_0"
+      SocketName="BladeHolster"
+      BoneName="Spine"
+      RelativeLocation=(X=16.116584,Y=5.821154,Z=-6.907040)
+      RelativeRotation=(Pitch=-53.045456,Yaw=-63.695758,Roll=-162.389171)
+   End Object
+   BoneTree(64)=()
+   Sockets(0)=/Script/Engine.SkeletalMeshSocket'"SkeletalMeshSocket_0"'
+   Sockets(1)=/Script/Engine.SkeletalMeshSocket'"SkeletalMeshSocket_1"'
+   SlotGroups(0)=(SlotNames=("DefaultSlot","FullBody","UpperBody"))
+   PreviewSkeletalMesh="/Game/Monster/Model/Y_Bot.Y_Bot"
+   PreviewAttachedAssetContainer=(AttachedObjects=((AttachedObject="/Game/InfinityBladeWeapons/Weapons/Dual_Blade/Dual_Blade_Axe16/SK_Dual_Blade_Axe16.SK_Dual_Blade_Axe16",AttachedTo="BladeHolster"),(AttachedObject="/Game/InfinityBladeWeapons/Weapons/Dual_Blade/Dual_Blade_Axe16/SK_Dual_Blade_Axe16.SK_Dual_Blade_Axe16",AttachedTo="BladeEquip")))
+End Object
