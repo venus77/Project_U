@@ -5,6 +5,8 @@
 # VIDEO
 YOUTUBE(World War Z) : https://www.youtube.com/watch?v=YnLXXNEALSM
 
+---
+
 # 발표용 자료 및 계획서
 ![The Last Escape_1](https://github.com/LeeYuJ1n/Project_U/assets/152352879/8848fea4-1490-433b-bc8d-a5bb77c60e71)
 ![The Last Escape_2](https://github.com/LeeYuJ1n/Project_U/assets/152352879/e0e50f3d-9740-4075-a1b1-98c3ebe65bdf)
