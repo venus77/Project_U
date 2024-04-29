@@ -18,7 +18,10 @@ Animation_BluePrint → ABP_</br>
 Montage → MTG_</br>
 NiagaraSystem → NGS_</br>
 입력 매칭 컨텍스트 → IMC_</br>
-입력 액션 → IC_
+입력 액션 → IC_</br>
+블랙보드 → BB_</br>
+비헤이비어 트리 → BT_</br>
+위젯 블루프린트 → WBP_
 
 --- 
 
