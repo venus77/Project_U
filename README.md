@@ -7,6 +7,19 @@ YOUTUBE(World War Z) : https://www.youtube.com/watch?v=YnLXXNEALSM
 
 ---
 
+# INFORMAION
+아래와 같이 파일 유형 이름을 통일시켜 주시기 바랍니다</br>
+추가사항이 있을 경우 업데이트 하겠습니다</br>
+
+○ File Type Name</br>
+Material → MT_</br>
+BluePrint → BP_</br>
+Animation_BluePrint → ABP_</br>
+Montage → MTG_</br>
+NiagaraSystem → NGS_
+
+--- 
+
 # 발표용 자료 및 계획서
 ![The Last Escape_1](https://github.com/LeeYuJ1n/Project_U/assets/152352879/8848fea4-1490-433b-bc8d-a5bb77c60e71)
 ![The Last Escape_2](https://github.com/LeeYuJ1n/Project_U/assets/152352879/e0e50f3d-9740-4075-a1b1-98c3ebe65bdf)
