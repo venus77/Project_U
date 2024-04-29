@@ -16,7 +16,9 @@ Material → MT_</br>
 BluePrint → BP_</br>
 Animation_BluePrint → ABP_</br>
 Montage → MTG_</br>
-NiagaraSystem → NGS_
+NiagaraSystem → NGS_</br>
+입력 매칭 컨텍스트 → IMC_</br>
+입력 액션 → IC_
 
 --- 
 
