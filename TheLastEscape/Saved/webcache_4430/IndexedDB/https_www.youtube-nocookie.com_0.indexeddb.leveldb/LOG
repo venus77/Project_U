@@ -1,6 +1,0 @@
-2024/05/06-15:13:09.253 3f18 Creating DB F:/GITHUB/Project_U/TeamProject/TheLastEscape/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
-2024/05/06-15:13:09.785 3f18 Reusing MANIFEST F:/GITHUB/Project_U/TeamProject/TheLastEscape/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/05/06-15:15:18.568 3ddc Level-0 table #5: started
-2024/05/06-15:15:18.592 3ddc Level-0 table #5: 1167 bytes OK
-2024/05/06-15:15:18.618 3ddc Delete type=0 #3
-2024/05/06-15:15:18.618 3ddc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
