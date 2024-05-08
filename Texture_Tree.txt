@@ -1,0 +1,42 @@
+SM_Chair47
+	MI_PlasticMatte01Black
+		T_Generic_N
+		T_Generic_E
+		T_Generic_BC
+		T_Generic_M
+		T_Generic_MT
+		T_PlasticMatte01_R
+
+SM_TableHigh04
+	MI_PlasticMatte01Black
+		T_WoodWorn01_N
+		T_Generic_E
+		T_Generic_BC
+		T_Generic_M
+		T_Generic_MT
+		T_PlasticMatte01_R
+
+	MI_WoodWorn01
+		T_WoodWorn01_N
+		T_Generic_E
+		T_WoodWorn01_BC
+		T_Generic_M
+		T_Generic_MT
+		T_WoodWorn01_R
+
+SM_TableLow16
+	MI_WoodGlossy01Pine
+		T_WoodGlossy01_N
+		T_Generic_E
+		T_WoodGlossy01_BC
+		T_Generic_M
+		T_Generic_MT
+		T_WoodGlossy01_R
+
+	MI_PlasticGlossy01
+		T_Generic_N
+		T_Generic_E
+		T_Generic_BC
+		T_Generic_M
+		T_Generic_MT
+		T_PlasticGlossy01_R
